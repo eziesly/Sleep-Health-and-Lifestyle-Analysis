@@ -59,5 +59,5 @@ Explore the interactive Power BI dashboard for dynamic filtering by occupation, 
 
 ## Connect With Me
 Feel free to connect or reach out:
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/onyedika-chikezie-55978a21a/))
+- [LinkedIn](https://www.linkedin.com/in/onyedika-chikezie-55978a21a/)
 -  chikeziesly@gmail.com
